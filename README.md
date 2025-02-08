@@ -41,7 +41,7 @@ git clone https://github.com/paritosh921/tacnique.git
 Once the repository is cloned, navigate to the project directory:
 
 ```bash
-cd chat-assistant
+cd tacnique
 ```
 
 ### Step 3: Install the Required Dependencies
